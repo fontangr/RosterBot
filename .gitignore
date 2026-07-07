@@ -1,0 +1,8 @@
+
+
+.env 
+tests
+.venv
+*.db
+*.sqlite
+*.sqlite3
