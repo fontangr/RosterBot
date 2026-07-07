@@ -6,4 +6,4 @@ tests
 *.db
 *.sqlite
 *.sqlite3
-__pycache__
+*__pycache__
