@@ -3,7 +3,7 @@ from discord.ext import commands
 
 class Teste(commands.Cog):
     def __init__(self, bot):
-        self.bot =bot 
+        self.bot = bot 
     @commands.hybrid_command(name="testar", description="ver se funciona")
     async def testar(self, ctx: commands.Context):
         if(ctx.interaction):
